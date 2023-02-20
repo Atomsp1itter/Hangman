@@ -12,7 +12,7 @@ This app contains a dictionary of over 60,000 words, so you will definitely have
 
 ### Installation
 
-If you are reading this outside of GitHub, please navigate to the project page: 
+If you are reading this outside of GitHub, please navigate to the project page: https://github.com/Atomsp1itter/Hangman
 
 Click the green "Code" button on the right hand side, and select "download Zip". Unzip the downloaded file to a location of your choice.
 
