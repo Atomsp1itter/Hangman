@@ -22,8 +22,8 @@ The app will now run in a new default browser window, or you can navigate to it 
 
 ### Rules
 
-- Take a look at the word represented by the blank spaces
-- Start to guess likely letters by clicking on the keyboard
+* Take a look at the word represented by the blank spaces
+* Start to guess likely letters by clicking on the keyboard
 * A wrong guess will progress the drawing of the gallows
 * It will also reduce your guesses remaining by 1
 * You have a total of 10 'lives' or incorrect guesses
@@ -37,12 +37,12 @@ The app will now run in a new default browser window, or you can navigate to it 
 
 This is how the game looks when you are in progress:
 
-![During](/images/_mid.png)
+![During](./images/_mid.png)
 
 This is how the game looks if you win:
 
-![Won](/images/_won.png)
+![Won](./images/_won.png)
 
 This is how the game looks if you lose:
 
-![Lost](/images/_lost.png)
+![Lost](./images/_lost.png)
