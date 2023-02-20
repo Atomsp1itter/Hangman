@@ -37,7 +37,7 @@ The app will now run in a new default browser window, or you can navigate to it 
 
 This is how the game looks when you are in progress:
 
-![During](./images/_mid.png)
+![During](./src/images/_mid.png)
 
 This is how the game looks if you win:
 
@@ -45,4 +45,4 @@ This is how the game looks if you win:
 
 This is how the game looks if you lose:
 
-![Lost](./images/_lost.png)
+![Lost](./src/images/_lost.png)
