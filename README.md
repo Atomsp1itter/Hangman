@@ -41,7 +41,7 @@ This is how the game looks when you are in progress:
 
 This is how the game looks if you win:
 
-![Won](./images/_won.png)
+![Won](./src/images/_won.png)
 
 This is how the game looks if you lose:
 
