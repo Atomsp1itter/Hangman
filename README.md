@@ -46,3 +46,7 @@ This is how the game looks if you win:
 This is how the game looks if you lose:
 
 ![Lost](./src/images/_lost.png)
+
+### Credits
+
+This app was built as an assignment for my JavaScript / React bootcamp and I built it myself with reference to lecture notes from a couple of different React lectures, plus some extra online research on React.
