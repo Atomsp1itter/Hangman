@@ -22,8 +22,8 @@ The app will now run in a new default browser window, or you can navigate to it 
 
 ### Rules
 
-    *Take a look at the word represented by the blank spaces
-    * Start to guess likely letters by clicking on the keyboard
+    - Take a look at the word represented by the blank spaces
+    - Start to guess likely letters by clicking on the keyboard
     * A wrong guess will progress the drawing of the gallows
     * It will also reduce your guesses remaining by 1
     * You have a total of 10 'lives' or incorrect guesses
